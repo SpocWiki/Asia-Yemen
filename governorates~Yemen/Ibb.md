@@ -13,7 +13,6 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Ibb
 
 Languages:
 - de
