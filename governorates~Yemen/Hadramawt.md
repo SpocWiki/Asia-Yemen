@@ -40,11 +40,18 @@ markerFolder: ./Hadramawt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt|Hadramawt]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.public|Hadramawt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.internal|Hadramawt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.protect|Hadramawt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.private|Hadramawt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.personal|Hadramawt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hadramawt.secret|Hadramawt.secret]] 
+
+### #is_/same_as :: [Hadramawt](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.md) 
+
+### #is_/same_as :: [Hadramawt.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.public.md) 
+
+### #is_/same_as :: [Hadramawt.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.internal.md) 
+
+### #is_/same_as :: [Hadramawt.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.protect.md) 
+
+### #is_/same_as :: [Hadramawt.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.private.md) 
+
+### #is_/same_as :: [Hadramawt.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.personal.md) 
+
+### #is_/same_as :: [Hadramawt.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hadramawt.secret.md)
 

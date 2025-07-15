@@ -40,11 +40,18 @@ markerFolder: ./Hajjah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah|Hajjah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.public|Hajjah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.internal|Hajjah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.protect|Hajjah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.private|Hajjah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.personal|Hajjah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Hajjah.secret|Hajjah.secret]] 
+
+### #is_/same_as :: [Hajjah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.md) 
+
+### #is_/same_as :: [Hajjah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.public.md) 
+
+### #is_/same_as :: [Hajjah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.internal.md) 
+
+### #is_/same_as :: [Hajjah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.protect.md) 
+
+### #is_/same_as :: [Hajjah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.private.md) 
+
+### #is_/same_as :: [Hajjah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.personal.md) 
+
+### #is_/same_as :: [Hajjah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Hajjah.secret.md)
 

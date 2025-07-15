@@ -39,11 +39,18 @@ markerFolder: ./Ibb/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb|Ibb]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.public|Ibb.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.internal|Ibb.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.protect|Ibb.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.private|Ibb.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.personal|Ibb.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ibb.secret|Ibb.secret]] 
+
+### #is_/same_as :: [Ibb](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.md) 
+
+### #is_/same_as :: [Ibb.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.public.md) 
+
+### #is_/same_as :: [Ibb.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.internal.md) 
+
+### #is_/same_as :: [Ibb.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.protect.md) 
+
+### #is_/same_as :: [Ibb.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.private.md) 
+
+### #is_/same_as :: [Ibb.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.personal.md) 
+
+### #is_/same_as :: [Ibb.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.secret.md)
 

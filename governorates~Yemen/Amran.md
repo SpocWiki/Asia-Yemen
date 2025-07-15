@@ -40,11 +40,18 @@ markerFolder: ./Amran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran|Amran]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.public|Amran.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.internal|Amran.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.protect|Amran.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.private|Amran.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.personal|Amran.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amran.secret|Amran.secret]] 
+
+### #is_/same_as :: [Amran](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.md) 
+
+### #is_/same_as :: [Amran.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.public.md) 
+
+### #is_/same_as :: [Amran.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.internal.md) 
+
+### #is_/same_as :: [Amran.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.protect.md) 
+
+### #is_/same_as :: [Amran.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.private.md) 
+
+### #is_/same_as :: [Amran.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.personal.md) 
+
+### #is_/same_as :: [Amran.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amran.secret.md)
 

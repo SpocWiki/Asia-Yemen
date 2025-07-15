@@ -40,11 +40,18 @@ markerFolder: ./Al_Dali'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'|Al_Dali']] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.public|Al_Dali'.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.internal|Al_Dali'.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.protect|Al_Dali'.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.private|Al_Dali'.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.personal|Al_Dali'.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Dali'.secret|Al_Dali'.secret]] 
+
+### #is_/same_as :: [Al_Dali'](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.md) 
+
+### #is_/same_as :: [Al_Dali'.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.public.md) 
+
+### #is_/same_as :: [Al_Dali'.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.internal.md) 
+
+### #is_/same_as :: [Al_Dali'.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.protect.md) 
+
+### #is_/same_as :: [Al_Dali'.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.private.md) 
+
+### #is_/same_as :: [Al_Dali'.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.personal.md) 
+
+### #is_/same_as :: [Al_Dali'.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Dali'.secret.md)
 

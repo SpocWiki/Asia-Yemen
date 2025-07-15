@@ -40,11 +40,18 @@ markerFolder: ./Amanat_Al_Asimah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah|Amanat_Al_Asimah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.public|Amanat_Al_Asimah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.internal|Amanat_Al_Asimah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.protect|Amanat_Al_Asimah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.private|Amanat_Al_Asimah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.personal|Amanat_Al_Asimah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Amanat_Al_Asimah.secret|Amanat_Al_Asimah.secret]] 
+
+### #is_/same_as :: [Amanat_Al_Asimah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.public.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.internal.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.protect.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.private.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.personal.md) 
+
+### #is_/same_as :: [Amanat_Al_Asimah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.secret.md)
 

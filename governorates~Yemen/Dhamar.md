@@ -40,11 +40,18 @@ markerFolder: ./Dhamar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar|Dhamar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.public|Dhamar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.internal|Dhamar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.protect|Dhamar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.private|Dhamar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.personal|Dhamar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Dhamar.secret|Dhamar.secret]] 
+
+### #is_/same_as :: [Dhamar](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.md) 
+
+### #is_/same_as :: [Dhamar.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.public.md) 
+
+### #is_/same_as :: [Dhamar.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.internal.md) 
+
+### #is_/same_as :: [Dhamar.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.protect.md) 
+
+### #is_/same_as :: [Dhamar.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.private.md) 
+
+### #is_/same_as :: [Dhamar.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.personal.md) 
+
+### #is_/same_as :: [Dhamar.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Dhamar.secret.md)
 

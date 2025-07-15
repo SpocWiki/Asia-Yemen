@@ -40,11 +40,18 @@ markerFolder: ./Ma'rib/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib|Ma'rib]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.public|Ma'rib.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.internal|Ma'rib.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.protect|Ma'rib.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.private|Ma'rib.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.personal|Ma'rib.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Ma'rib.secret|Ma'rib.secret]] 
+
+### #is_/same_as :: [Ma'rib](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.md) 
+
+### #is_/same_as :: [Ma'rib.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.public.md) 
+
+### #is_/same_as :: [Ma'rib.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.internal.md) 
+
+### #is_/same_as :: [Ma'rib.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.protect.md) 
+
+### #is_/same_as :: [Ma'rib.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.private.md) 
+
+### #is_/same_as :: [Ma'rib.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.personal.md) 
+
+### #is_/same_as :: [Ma'rib.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.secret.md)
 

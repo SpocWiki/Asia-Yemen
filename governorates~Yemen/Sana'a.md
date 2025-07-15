@@ -40,11 +40,18 @@ markerFolder: ./Sana'a/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a|Sana'a]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.public|Sana'a.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.internal|Sana'a.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.protect|Sana'a.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.private|Sana'a.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.personal|Sana'a.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Sana'a.secret|Sana'a.secret]] 
+
+### #is_/same_as :: [Sana'a](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.md) 
+
+### #is_/same_as :: [Sana'a.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.public.md) 
+
+### #is_/same_as :: [Sana'a.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.internal.md) 
+
+### #is_/same_as :: [Sana'a.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.protect.md) 
+
+### #is_/same_as :: [Sana'a.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.private.md) 
+
+### #is_/same_as :: [Sana'a.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.personal.md) 
+
+### #is_/same_as :: [Sana'a.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a.secret.md)
 

@@ -34,10 +34,4 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 
 
 
-## Confidential Links & Embeds: 
-- [[Yemen~Republic|Yemen~Republic]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]] 
+

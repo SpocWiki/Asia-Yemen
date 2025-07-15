@@ -40,11 +40,18 @@ markerFolder: ./Al_Hudaydah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah|Al_Hudaydah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.public|Al_Hudaydah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.internal|Al_Hudaydah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.protect|Al_Hudaydah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.private|Al_Hudaydah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.personal|Al_Hudaydah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Yemen~Republic/Counties/Al_Hudaydah.secret|Al_Hudaydah.secret]] 
+
+### #is_/same_as :: [Al_Hudaydah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.md) 
+
+### #is_/same_as :: [Al_Hudaydah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.public.md) 
+
+### #is_/same_as :: [Al_Hudaydah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.internal.md) 
+
+### #is_/same_as :: [Al_Hudaydah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.protect.md) 
+
+### #is_/same_as :: [Al_Hudaydah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.private.md) 
+
+### #is_/same_as :: [Al_Hudaydah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.personal.md) 
+
+### #is_/same_as :: [Al_Hudaydah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Hudaydah.secret.md)
 
