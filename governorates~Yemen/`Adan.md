@@ -1,7 +1,7 @@
 ---
 location: [ 12.8 , 44.8 ] 
 type: geo-Region
-title: `Adan
+title: "`Adan"
 
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -13,7 +13,8 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- `Adan
+- "`Adan"
+- Adan
 
 Languages:
 - de
