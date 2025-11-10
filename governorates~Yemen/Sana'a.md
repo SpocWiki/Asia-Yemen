@@ -26,14 +26,14 @@ publishDate:
 expiryDate:
 ---
 
-# Sana'a
+# [[Sana'a]]
 
 ```leaflet
 id: Sana'a
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sana'a/
+geojsonFolder: ./Sana'a//
 markerFolder: ./Sana'a/
 ```
 
