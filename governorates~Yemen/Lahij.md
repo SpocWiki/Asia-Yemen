@@ -40,17 +40,17 @@ markerFolder: ./Lahij/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lahij](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij|Lahij]] 
 
-### #is_/same_as :: [Lahij.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.public|Lahij.public]] 
 
-### #is_/same_as :: [Lahij.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.internal|Lahij.internal]] 
 
-### #is_/same_as :: [Lahij.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.protect|Lahij.protect]] 
 
-### #is_/same_as :: [Lahij.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.private|Lahij.private]] 
 
-### #is_/same_as :: [Lahij.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.personal|Lahij.personal]] 
 
-### #is_/same_as :: [Lahij.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Lahij.secret|Lahij.secret]] 
 

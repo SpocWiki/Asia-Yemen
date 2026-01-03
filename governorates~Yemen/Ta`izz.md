@@ -40,17 +40,17 @@ markerFolder: ./Ta`izz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ta`izz](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz|Ta`izz]] 
 
-### #is_/same_as :: [Ta`izz.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.public|Ta`izz.public]] 
 
-### #is_/same_as :: [Ta`izz.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.internal|Ta`izz.internal]] 
 
-### #is_/same_as :: [Ta`izz.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.protect|Ta`izz.protect]] 
 
-### #is_/same_as :: [Ta`izz.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.private|Ta`izz.private]] 
 
-### #is_/same_as :: [Ta`izz.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.personal|Ta`izz.personal]] 
 
-### #is_/same_as :: [Ta`izz.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ta`izz.secret|Ta`izz.secret]] 
 

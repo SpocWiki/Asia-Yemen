@@ -40,17 +40,17 @@ markerFolder: ./Al_Mahrah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Mahrah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah|Al_Mahrah]] 
 
-### #is_/same_as :: [Al_Mahrah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.public|Al_Mahrah.public]] 
 
-### #is_/same_as :: [Al_Mahrah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.internal|Al_Mahrah.internal]] 
 
-### #is_/same_as :: [Al_Mahrah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.protect|Al_Mahrah.protect]] 
 
-### #is_/same_as :: [Al_Mahrah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.private|Al_Mahrah.private]] 
 
-### #is_/same_as :: [Al_Mahrah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.personal|Al_Mahrah.personal]] 
 
-### #is_/same_as :: [Al_Mahrah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahrah.secret|Al_Mahrah.secret]] 
 

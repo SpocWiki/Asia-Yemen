@@ -40,17 +40,17 @@ markerFolder: ./Al_Mahwit/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Mahwit](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit|Al_Mahwit]] 
 
-### #is_/same_as :: [Al_Mahwit.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.public|Al_Mahwit.public]] 
 
-### #is_/same_as :: [Al_Mahwit.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.internal|Al_Mahwit.internal]] 
 
-### #is_/same_as :: [Al_Mahwit.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.protect|Al_Mahwit.protect]] 
 
-### #is_/same_as :: [Al_Mahwit.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.private|Al_Mahwit.private]] 
 
-### #is_/same_as :: [Al_Mahwit.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.personal|Al_Mahwit.personal]] 
 
-### #is_/same_as :: [Al_Mahwit.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Mahwit.secret|Al_Mahwit.secret]] 
 

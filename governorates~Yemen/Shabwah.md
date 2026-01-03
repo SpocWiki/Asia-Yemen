@@ -40,17 +40,17 @@ markerFolder: ./Shabwah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shabwah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah|Shabwah]] 
 
-### #is_/same_as :: [Shabwah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.public|Shabwah.public]] 
 
-### #is_/same_as :: [Shabwah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.internal|Shabwah.internal]] 
 
-### #is_/same_as :: [Shabwah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.protect|Shabwah.protect]] 
 
-### #is_/same_as :: [Shabwah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.private|Shabwah.private]] 
 
-### #is_/same_as :: [Shabwah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.personal|Shabwah.personal]] 
 
-### #is_/same_as :: [Shabwah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Shabwah.secret|Shabwah.secret]] 
 

@@ -39,17 +39,17 @@ markerFolder: ./Ibb/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ibb](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb|Ibb]] 
 
-### #is_/same_as :: [Ibb.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.public|Ibb.public]] 
 
-### #is_/same_as :: [Ibb.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.internal|Ibb.internal]] 
 
-### #is_/same_as :: [Ibb.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.protect|Ibb.protect]] 
 
-### #is_/same_as :: [Ibb.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.private|Ibb.private]] 
 
-### #is_/same_as :: [Ibb.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.personal|Ibb.personal]] 
 
-### #is_/same_as :: [Ibb.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ibb.secret|Ibb.secret]] 
 

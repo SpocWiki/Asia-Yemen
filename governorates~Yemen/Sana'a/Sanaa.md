@@ -91,3 +91,20 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sanaa%20banner.j
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sanaa) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa|Sanaa]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.public|Sanaa.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.internal|Sanaa.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.protect|Sanaa.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.private|Sanaa.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.personal|Sanaa.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sana'a/Sanaa.secret|Sanaa.secret]] 
+

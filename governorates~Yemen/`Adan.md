@@ -41,17 +41,17 @@ markerFolder: ./`Adan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [`Adan](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan|`Adan]] 
 
-### #is_/same_as :: [`Adan.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.public|`Adan.public]] 
 
-### #is_/same_as :: [`Adan.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.internal|`Adan.internal]] 
 
-### #is_/same_as :: [`Adan.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.protect|`Adan.protect]] 
 
-### #is_/same_as :: [`Adan.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.private|`Adan.private]] 
 
-### #is_/same_as :: [`Adan.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.personal|`Adan.personal]] 
 
-### #is_/same_as :: [`Adan.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan.secret|`Adan.secret]] 
 

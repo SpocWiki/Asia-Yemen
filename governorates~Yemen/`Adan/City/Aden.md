@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aden](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden|Aden]] 
 
-### #is_/same_as :: [Aden.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.public|Aden.public]] 
 
-### #is_/same_as :: [Aden.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.internal|Aden.internal]] 
 
-### #is_/same_as :: [Aden.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.protect|Aden.protect]] 
 
-### #is_/same_as :: [Aden.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.private|Aden.private]] 
 
-### #is_/same_as :: [Aden.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.personal|Aden.personal]] 
 
-### #is_/same_as :: [Aden.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/`Adan/City/Aden.secret|Aden.secret]] 
 

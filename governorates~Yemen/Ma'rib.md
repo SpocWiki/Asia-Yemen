@@ -40,17 +40,17 @@ markerFolder: ./Ma'rib/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ma'rib](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib|Ma'rib]] 
 
-### #is_/same_as :: [Ma'rib.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.public|Ma'rib.public]] 
 
-### #is_/same_as :: [Ma'rib.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.internal|Ma'rib.internal]] 
 
-### #is_/same_as :: [Ma'rib.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.protect|Ma'rib.protect]] 
 
-### #is_/same_as :: [Ma'rib.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.private|Ma'rib.private]] 
 
-### #is_/same_as :: [Ma'rib.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.personal|Ma'rib.personal]] 
 
-### #is_/same_as :: [Ma'rib.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Ma'rib.secret|Ma'rib.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Amanat_Al_Asimah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amanat_Al_Asimah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah|Amanat_Al_Asimah]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.public|Amanat_Al_Asimah.public]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.internal|Amanat_Al_Asimah.internal]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.protect|Amanat_Al_Asimah.protect]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.private|Amanat_Al_Asimah.private]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.personal|Amanat_Al_Asimah.personal]] 
 
-### #is_/same_as :: [Amanat_Al_Asimah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Amanat_Al_Asimah.secret|Amanat_Al_Asimah.secret]] 
 

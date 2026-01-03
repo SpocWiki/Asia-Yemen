@@ -40,17 +40,17 @@ markerFolder: ./Sa`dah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sa`dah](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah|Sa`dah]] 
 
-### #is_/same_as :: [Sa`dah.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.public|Sa`dah.public]] 
 
-### #is_/same_as :: [Sa`dah.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.internal|Sa`dah.internal]] 
 
-### #is_/same_as :: [Sa`dah.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.protect|Sa`dah.protect]] 
 
-### #is_/same_as :: [Sa`dah.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.private|Sa`dah.private]] 
 
-### #is_/same_as :: [Sa`dah.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.personal|Sa`dah.personal]] 
 
-### #is_/same_as :: [Sa`dah.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Sa`dah.secret|Sa`dah.secret]] 
 

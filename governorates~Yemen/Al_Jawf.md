@@ -40,17 +40,17 @@ markerFolder: ./Al_Jawf/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al_Jawf](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf|Al_Jawf]] 
 
-### #is_/same_as :: [Al_Jawf.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.public|Al_Jawf.public]] 
 
-### #is_/same_as :: [Al_Jawf.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.internal|Al_Jawf.internal]] 
 
-### #is_/same_as :: [Al_Jawf.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.protect|Al_Jawf.protect]] 
 
-### #is_/same_as :: [Al_Jawf.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.private|Al_Jawf.private]] 
 
-### #is_/same_as :: [Al_Jawf.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.personal|Al_Jawf.personal]] 
 
-### #is_/same_as :: [Al_Jawf.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/governorates~Yemen/Al_Jawf.secret|Al_Jawf.secret]] 
 
