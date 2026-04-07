@@ -26,7 +26,7 @@ markerFolder: ./
 [Area-Land::527970] 
 Continent :: [[Asia]]  
 [VehicleCode::YEM] 
-Capital :: [[Yemen~Republic/City/Sana‘a]] ] 
+Capital :: [[Yemen~Republic/City/Sana‘a|Sana‘a]] ] 
 [Alcohol-l::0.2] 
 [Language-Id::472] 
 [geo-lon::44.61] 
