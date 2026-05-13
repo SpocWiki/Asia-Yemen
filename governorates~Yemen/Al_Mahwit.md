@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Mahwit/
 markerFolder: ./Al_Mahwit/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

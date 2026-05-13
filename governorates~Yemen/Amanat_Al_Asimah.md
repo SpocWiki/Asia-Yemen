@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Amanat_Al_Asimah/
 markerFolder: ./Amanat_Al_Asimah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
