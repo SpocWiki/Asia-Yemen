@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q900498
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
-country: "[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
-part_of: "[[_Standards/WikiData/WD~history_of_the_Middle_East,51615|WD~history_of_the_Middle_East,51615]]"
+instance_of: "[[/_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[/_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
+country: "[[/_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
+part_of: "[[/_Standards/WikiData/WD~history_of_the_Middle_East,51615|WD~history_of_the_Middle_East,51615]]"
 Dewey_Decimal_Classification: "953.3"
 Commons_category: History of Yemen
 ---
