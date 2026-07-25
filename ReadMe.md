@@ -3,7 +3,7 @@ dv_ISO2: YE
 dv_ISO3: YEM
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]'
+  - '[[../../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]'
@@ -304,16 +304,16 @@ dv_has_name_en: Yemen, Rep.
 dv_has_name_de: Jemen
 dv_Area-Total: 536869
 dv_Area-Land: 527970
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: YEM
-dv_Capital: '[[Yemen~Republic/City/Sana‘a|Sana‘a]]'
+dv_Capital: '[[City/Sana‘a|Sana‘a]]'
 dv_Alcohol-l: 0.2
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.61
 dv_has_place_latitude: 14.06
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]'
+- '[[../../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]'
@@ -497,7 +497,7 @@ public_holiday:
 - '[[/_Standards/WikiData/WD~Evacuation_Day,12228863|WD~Evacuation_Day,12228863]]'
 - "[[/_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - "[[/_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708|WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
@@ -761,7 +761,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 I contains the Country's Provinces and Cities, 
 
-[[Yemen~Republic/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -779,7 +779,7 @@ minZoom: 3
 
 ```leaflet
 id: Yemen~Republic_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
