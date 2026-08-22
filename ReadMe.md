@@ -827,17 +827,17 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic/ReadMe.secret|ReadMe.secret]] 
 
